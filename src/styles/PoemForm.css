@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-bottom: 4vmin;
+}
+
+textarea {
+    margin-bottom: 4vmin;
+}
+
+.submit-button {
+    width: 100px;
+}
